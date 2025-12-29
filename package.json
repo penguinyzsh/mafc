@@ -1,7 +1,8 @@
 {
-  "name": "vite-react",
+  "name": "mafc",
+  "description": "Movie Advisor For Chat - An AI-powered movie recommendation chat application using multi-agent system",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-react": "^0.562.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
